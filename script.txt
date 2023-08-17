@@ -1,0 +1,9 @@
+Background-color = #fff;
+
+algumas partes da pagina com cores especificas!
+
+Paleta de cores:
+#314f30 -> verdão escuro;
+#426741 -> verde um pouco mais claro;
+#edc372 -> um marrom clarinho (talvez não o use);
+
